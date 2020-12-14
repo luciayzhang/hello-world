@@ -1,2 +1,3 @@
 # hello-world
-learning repository
+
+Learning GitHub from the browser interface.
